@@ -2,7 +2,7 @@
  * Data-Structures-In-Java
  * DoublyLinkedList.java
  */
-package com.deepak.data.structures.LinkedList;
+package com.sultana.data.structures.LinkedList;
 
 /**
  * Implementation of Doubly linked list 
@@ -18,7 +18,7 @@ package com.deepak.data.structures.LinkedList;
  * - Converting a Array from linked list.
  * </br>
  * 
- * @author Deepak
+ * @author sultana
  *
  * @param <E>
  */
