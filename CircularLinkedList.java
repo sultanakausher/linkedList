@@ -2,7 +2,7 @@
  * Data-Structures-In-Java
  * CircularLinkedList.java
  */
-package com.deepak.data.structures.LinkedList;
+package com.sultana.data.structures.LinkedList;
 
 /**
  * Implementation of Circular Linked List
@@ -21,7 +21,7 @@ package com.deepak.data.structures.LinkedList;
  * 
  * </br>
  * 
- * @author Deepak
+ * @author sultana
  */
 public class CircularLinkedList<E> {
 
